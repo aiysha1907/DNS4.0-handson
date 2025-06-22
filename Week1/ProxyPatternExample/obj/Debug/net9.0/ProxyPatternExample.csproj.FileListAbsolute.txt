@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\bin\Debug\net9.0\ProxyPatternExample.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\bin\Debug\net9.0\ProxyPatternExample.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\bin\Debug\net9.0\ProxyPatternExample.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\bin\Debug\net9.0\ProxyPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\bin\Debug\net9.0\ProxyPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ProxyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ProxyPatternExample.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ProxyPatternExample.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ProxyPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ProxyPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\refint\ProxyPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ProxyPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ProxyPatternExample.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\ProxyPatternExample\obj\Debug\net9.0\ref\ProxyPatternExample.dll

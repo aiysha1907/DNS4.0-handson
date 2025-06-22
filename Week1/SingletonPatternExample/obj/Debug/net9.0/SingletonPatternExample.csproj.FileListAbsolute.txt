@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\bin\Debug\net9.0\SingletonPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\refint\SingletonPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\SingletonPatternExample.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\SingletonPatternExample\obj\Debug\net9.0\ref\SingletonPatternExample.dll

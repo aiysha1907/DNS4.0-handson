@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\bin\Debug\net9.0\DirectorySystem.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\bin\Debug\net9.0\DirectorySystem.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\bin\Debug\net9.0\DirectorySystem.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\bin\Debug\net9.0\DirectorySystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\bin\Debug\net9.0\DirectorySystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\DirectorySystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\DirectorySystem.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\DirectorySystem.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\DirectorySystem.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\DirectorySystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\refint\DirectorySystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\DirectorySystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\DirectorySystem.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\DirectorySystem\obj\Debug\net9.0\ref\DirectorySystem.dll

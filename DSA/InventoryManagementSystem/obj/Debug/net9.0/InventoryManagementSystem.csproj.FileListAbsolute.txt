@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\refint\InventoryManagementSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\InventoryManagementSystem\obj\Debug\net9.0\ref\InventoryManagementSystem.dll
