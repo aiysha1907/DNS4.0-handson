@@ -1,0 +1,12 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\bin\Debug\net9.0\PlayersManagerLib.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.sourcelink.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\refint\PlayersManagerLib.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\PlayersManagerLib.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\PlayersManagerLib\obj\Debug\net9.0\ref\PlayersManagerLib.dll
