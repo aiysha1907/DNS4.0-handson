@@ -1,0 +1,12 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\bin\Debug\net9.0\MagicFilesLib.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.sourcelink.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\refint\MagicFilesLib.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\MagicFilesLib.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week2\NUnit_MOQ\MagicFilesLib\obj\Debug\net9.0\ref\MagicFilesLib.dll

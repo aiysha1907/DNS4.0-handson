@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\bin\Debug\net9.0\VotingSystem.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\bin\Debug\net9.0\VotingSystem.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\bin\Debug\net9.0\VotingSystem.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\bin\Debug\net9.0\VotingSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\bin\Debug\net9.0\VotingSystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\VotingSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\VotingSystem.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\VotingSystem.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\VotingSystem.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\VotingSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\refint\VotingSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\VotingSystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\VotingSystem.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\VotingSystem\obj\Debug\net9.0\ref\VotingSystem.dll

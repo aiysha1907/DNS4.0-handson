@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\bin\Debug\net9.0\AdapterPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\refint\AdapterPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\AdapterPatternExample.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\AdapterPatternExample\obj\Debug\net9.0\ref\AdapterPatternExample.dll

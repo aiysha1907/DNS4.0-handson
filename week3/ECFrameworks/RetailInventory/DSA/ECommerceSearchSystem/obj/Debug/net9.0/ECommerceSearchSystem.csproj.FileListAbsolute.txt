@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\bin\Debug\net9.0\ECommerceSearchSystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\refint\ECommerceSearchSystem.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ECommerceSearchSystem.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\ECommerceSearchSystem\obj\Debug\net9.0\ref\ECommerceSearchSystem.dll

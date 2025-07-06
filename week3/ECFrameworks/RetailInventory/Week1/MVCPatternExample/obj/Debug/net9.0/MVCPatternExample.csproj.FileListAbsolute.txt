@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\bin\Debug\net9.0\MVCPatternExample.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\bin\Debug\net9.0\MVCPatternExample.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\bin\Debug\net9.0\MVCPatternExample.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\bin\Debug\net9.0\MVCPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\bin\Debug\net9.0\MVCPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\MVCPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\MVCPatternExample.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\MVCPatternExample.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\MVCPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\MVCPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\refint\MVCPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\MVCPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\MVCPatternExample.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\MVCPatternExample\obj\Debug\net9.0\ref\MVCPatternExample.dll

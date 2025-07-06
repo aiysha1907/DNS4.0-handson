@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\DependencyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\DependencyPatternExample.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\DependencyPatternExample.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\DependencyPatternExample.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\bin\Debug\net9.0\DependencyPatternExample.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\bin\Debug\net9.0\DependencyPatternExample.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\bin\Debug\net9.0\DependencyPatternExample.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\bin\Debug\net9.0\DependencyPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\bin\Debug\net9.0\DependencyPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\DependencyPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\refint\DependencyPatternExample.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\DependencyPatternExample.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\DependencyPatternExample.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\Week1\DependencyPatternExample\obj\Debug\net9.0\ref\DependencyPatternExample.dll

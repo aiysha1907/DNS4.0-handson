@@ -1,0 +1,14 @@
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\bin\Debug\net9.0\TextEditorUndo.exe
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\bin\Debug\net9.0\TextEditorUndo.deps.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\bin\Debug\net9.0\TextEditorUndo.runtimeconfig.json
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\bin\Debug\net9.0\TextEditorUndo.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\bin\Debug\net9.0\TextEditorUndo.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\TextEditorUndo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\TextEditorUndo.AssemblyInfoInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\TextEditorUndo.AssemblyInfo.cs
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\TextEditorUndo.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\TextEditorUndo.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\refint\TextEditorUndo.dll
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\TextEditorUndo.pdb
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\TextEditorUndo.genruntimeconfig.cache
+c:\Users\KIIT\Desktop\DN4.0_handson\DSA\TextEditorUndo\obj\Debug\net9.0\ref\TextEditorUndo.dll
