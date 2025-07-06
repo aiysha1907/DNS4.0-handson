@@ -20,8 +20,10 @@ async Task MainAsync()
 
 
 
+//lab8
+await CommandHandler.ExecuteAsync(args);
 
-using var context = new AppDbContext();
+
 
 // Ensure database is created (Lab 3)
 context.Database.EnsureCreated();
