@@ -169,3 +169,58 @@ foreach (var p in finalProducts)
 {
     Console.WriteLine($"- {p.Name} ({p.Category.Name}) - ₹{p.Price}");
 }
+
+//lab 7
+
+
+Console.WriteLine("\n🔎 Electronics products priced over ₹700:");
+
+var filteredProducts = await context.Products
+    .Include(p => p.Category)
+    .Where(p => p.Category.Name == "Electronics" && p.Price > 700)
+    .ToListAsync();
+
+foreach (var p in filteredProducts)
+{
+    Console.WriteLine($"- {p.Name} ({p.Category.Name}) - ₹{p.Price}");
+}
+
+Console.WriteLine("\n🧮 Products in 'Grocery' OR price < ₹600:");
+
+var alternateFilter = await context.Products
+    .Include(p => p.Category)
+    .Where(p => p.Category.Name == "Grocery" || p.Price < 600)
+    .ToListAsync();
+
+foreach (var p in alternateFilter)
+{
+    Console.WriteLine($"- {p.Name} ({p.Category.Name}) - ₹{p.Price}");
+}
+
+Console.WriteLine("\n📝 Product Name and Price (Projection):");
+
+var namePriceOnly = await context.Products
+    .Select(p => new { p.Name, p.Price })
+    .ToListAsync();
+
+foreach (var item in namePriceOnly)
+{
+    Console.WriteLine($"- {item.Name} - ₹{item.Price}");
+}
+
+Console.WriteLine("\n📊 Total products per category:");
+
+var grouped = await context.Products
+    .Include(p => p.Category)
+    .GroupBy(p => p.Category.Name)
+    .Select(g => new
+    {
+        Category = g.Key,
+        Count = g.Count()
+    })
+    .ToListAsync();
+
+foreach (var g in grouped)
+{
+    Console.WriteLine($"- {g.Category}: {g.Count} product(s)");
+}
